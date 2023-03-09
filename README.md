@@ -1,2 +1,2 @@
 My git page
-still under development 
+Still a work in progress site
